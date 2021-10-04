@@ -38,8 +38,8 @@ imageExtension          | Extension of the Base64 image data.
 
 ## License
 
-Licensed under MIT. See [LICENSE](https://github.com/webguru-js/NgxAdvancePagination/blob/main/LICENSE) for more information.
+Licensed under MIT. See [LICENSE](https://github.com/webguru-js/node-base64-to-image/blob/master/LICENSE) for more information.
 
 ## Issues
 
-Report a bug in [ISSUES](https://github.com/webguru-js/NgxAdvancePagination/issues).
+Report a bug in [ISSUES](https://github.com/webguru-js/node-base64-to-image/issues).

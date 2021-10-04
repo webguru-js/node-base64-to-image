@@ -1,0 +1,18 @@
+{
+  "name": "node-base64-to-image",
+  "version": "1.0.1",
+  "description": "Save base64 data to image file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "base64",
+    "base64ImageConvert",
+    "base64 to image",
+    "save base64 data"
+  ],
+  "author": "Webguru Infosystems",
+  "license": "MIT"
+}

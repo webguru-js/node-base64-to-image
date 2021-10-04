@@ -1,4 +1,4 @@
-# NgxAdvancePagination
+# node-base64-to-image
 
 Convert and save base64 image data to file.
 
